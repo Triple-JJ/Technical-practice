@@ -6,7 +6,7 @@
 
 第二步：告知管理员，自己的Github注册邮箱【目前联系赵闯同学】，添加成为Contributor
 
-第三步：Git Clone该文档
+第三步：Git Clone该文档【注意选择SSH地址进行Clone】
 
 第四步：新建文件夹【李四-作业】
 
